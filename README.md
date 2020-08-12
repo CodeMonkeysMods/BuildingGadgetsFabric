@@ -2,8 +2,4 @@
 
 ## Setup
 
-
-
-## License
-
-This mod is under the MIT licence.
+#### TODO:
