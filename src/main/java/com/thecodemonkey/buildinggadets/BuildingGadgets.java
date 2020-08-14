@@ -1,4 +1,4 @@
-package com.thecodemonkey.buildinggadgets.common;
+package com.thecodemonkey.buildinggadgets;
 
 import net.fabricmc.api.ModInitializer;
 
